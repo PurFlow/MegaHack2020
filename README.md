@@ -34,7 +34,9 @@ Tivemos contato com um empresario que estava acostumado a fazer material gráfic
 
 > 5- Explique sua solução como se fosse explicar para sua avó
 
-Então avó, você teria opções de empresa que irão expor seu conteúdo, se você gostar do conteúdo da empresa, você seleciona no ''v'' então a empresa poderia contatar você e você terá acesso a todos os conteúdos que a empresa disponibiliza, caso você não tenha interesse, basta Clickar no ''x'', assim aparecerá novamos opções, existe também nesse aplicativo salas que terão contatos diretos com outras pessoas, você pode escolher qual sala entrar, pois a própria sala ira te apresentar os conteúdos que estão sendo falados em tempo real.
+Então avó, você teria opções de empresa que irão expor seu conteúdo, se você gostar do conteúdo da empresa, você seleciona no "v" então a empresa poderia contatar você e você terá acesso a todos os conteúdos que a empresa disponibiliza, caso você não tenha interesse, basta Clickar no "x", assim aparecerá novamos opções.
+
+Existe também nesse aplicativo salas que terão contatos diretos com outras pessoas, você pode escolher qual sala entrar, pois a própria sala ira te apresentar os conteúdos que estão sendo falados em tempo real.
 
 ## Ferramentas
 
