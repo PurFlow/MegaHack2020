@@ -1,4 +1,4 @@
-# MegaHack2020
+# Mega Hack 2020 Time 71
 
 Projeto para o evento do Mega Hack, da Shawee.
 
